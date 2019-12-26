@@ -1,4 +1,4 @@
-module github.com/TheNameOfThisUser/gotutorial.git
+module github.com/TheNameOfThisUser/gotutorial
 
 go 1.13
 
